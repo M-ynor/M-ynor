@@ -1,5 +1,5 @@
 # 💫About Me:
-😶‍🌫️ I'm Kevin Apataño a young software engineer learner,<br>💀 I'm currently mainly learning React &JavaScript,<br>🤖 Future full-stack developer (starting on front-end),<br>
+😶‍🌫️ I'm Kevin Apataño a young software engineer learner,<br>💀 I'm currently mainly learning React & JavaScript,<br>🤖 Future full-stack developer (starting on front-end),<br>
 
 
 ## 🌐 Socials:
